@@ -94,3 +94,13 @@ background-color: #f8f59f;
       background-color: rgba(19, 231, 19, 0.8);
       color: rgb(115, 19, 134);
 }
+
+#entreteniment .articles article a {
+      background-color: rgba(0, 0, 0, 0.548);
+      color: red;
+}
+
+#TI .articles article a {
+   background-color: yellowgreen;
+      color: green;
+}
